@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology & Sports 
 - 🌱 I’m currently learning Web Development & Cloud Computing
 - 💞️ I’m looking to collaborate on Any Travel Blogging Website
-- 📫 How to reach me (Instagram: @ashishgupta_ig )
+- 📫 How to reach me (Instagram: @ashishgupta_ig7 )
 
 <!---
 ashishgupta-git/ashishgupta-gitx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
