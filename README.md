@@ -1,3 +1,5 @@
+https://example.com/awesome-coder-logo.png
+
 - 👋 Hi, I’m Ashish Gupta (@ashishgupta-git)
 - 👀 I’m interested in Technology & Sports 
 - 🌱 I’m currently learning Web Development & Cloud Computing
